@@ -18,4 +18,4 @@ client.on('ready', () =>{
 client.user.setActivity(' the border!', {type: "WATCHING"}).catch(console.error)
 })
 
-client.login('OTQ3NTgyMzIzMTkxMzQ1MjMy.GhV1hO.Nv0_7XCUzUNhpTEr-nYl319ix4sTRmBJaZ8-RM');
+client.login('');
